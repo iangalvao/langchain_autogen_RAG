@@ -1,3 +1,5 @@
 venv
 .env
 notebooks/.ipynb_checkpoints
+notebooks/OAI_CONFIG_LIST
+notebooks/.cache/
